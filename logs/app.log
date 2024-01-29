@@ -1,0 +1,17 @@
+2022-06-28 10:15:05,287 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-3] FATAL ERROR
+2022-06-28 11:10:31,248 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-1] FATAL ERROR
+2022-06-28 11:11:37,906 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-8] User provided the invalid input
+2022-06-28 11:15:08,062 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-2] Updation Unsuccessfull!!!.Enter all fields with valid inputs
+2022-06-28 11:15:18,270 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-5] Updation Unsuccessfull!!!.Enter all fields with valid inputs
+2022-06-28 11:16:13,177 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-9] Request Id 1 not exists
+2022-06-28 11:16:22,030 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-1] Request Id 10 not exists
+2022-06-28 11:17:10,393 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-5] User Id 2700000 has no requests
+2022-06-28 17:21:35,805 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-4] User provided the invalid input
+2022-06-28 17:22:01,788 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [http-nio-8080-exec-7] Parameter number 9 is not an OUT parameter
+2022-06-28 17:26:02,100 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-3] Updation Unsuccessfull!!!.Enter all fields with valid inputs
+2022-06-28 17:27:12,435 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-9] Request Id 2 not exists
+2022-06-28 17:27:37,684 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-2] User Id 2700000 has no requests
+2022-06-28 17:27:43,767 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-3] User Id 8 has no requests
+2022-06-28 17:28:09,270 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-7] User Id 27 has no requestTypes
+2022-06-28 17:28:29,329 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-9] Role Id 1 and status Id 4 has no statuses
+2022-06-28 17:28:33,904 ERROR com.ntt.infra.controller.RequestController [http-nio-8080-exec-10] Role Id 1 and status Id 7 has no statuses
